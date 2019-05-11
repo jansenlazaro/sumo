@@ -1,0 +1,16 @@
+<configuration>
+
+	<input>
+		<net-file value="4way.net.xml"/>
+		<route-files value= "4way.rou.xml"/>
+	</input>
+
+	<time>
+		<begin value="0"/>
+		<end value="2000"/>
+	</time>
+
+	<processing>
+		<time-to-teleport value="-1"/>
+	</processing>
+</configuration>
